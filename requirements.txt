@@ -3,6 +3,11 @@ langchain-core
 langchain-community
 langchain-google-genai
 langchain-text-splitters
-langchain-chroma
+google-generativeai
 faiss-cpu
-sentence-transformers
+python-dotenv
+
+fastapi
+uvicorn
+langserve
+sse-starlette
